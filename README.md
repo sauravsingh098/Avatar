@@ -1,2 +1,0 @@
-# Avatar
-Created with CodeSandbox
